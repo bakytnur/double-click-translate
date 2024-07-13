@@ -14,8 +14,8 @@ Word Translator is a Chrome extension that detects a double-click on a word and 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/word-translator.git
-   cd word-translator
+   git clone https://github.com/bakytnur/double-click-translate.git
+   cd double-click-translate
 2. Open Chrome and navigate to chrome://extensions/.
 
 3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
